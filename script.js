@@ -1,6 +1,3 @@
-require('dotenv').config();
-
-
 document.addEventListener('DOMContentLoaded', function() {
 
     // Handle Take Quiz Button
@@ -138,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     // Chatbot Functionality
-    const openAiKey = process.env.API_KEY; // Replace with your OpenAI API Key
+    const openAiKey = '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'; // Replace with your OpenAI API Key
 
     async function sendMessageToOpenAI(userMessage) {
         try {
