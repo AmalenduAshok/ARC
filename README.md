@@ -11,7 +11,7 @@
 
 
 ### Hosted Project Link
-[http://127.0.0.1:5500/index.html#home]
+[https://arc-neon-xi.vercel.app/]
 
 ### Project Description
 [Our mental health website aims at resolving mental health issues in people. ]
