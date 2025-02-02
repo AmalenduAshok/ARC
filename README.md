@@ -14,7 +14,7 @@
 [http://127.0.0.1:5500/index.html#home]
 
 ### Project Description
-[Our mental health website aims ]
+[Our mental health website aims at resolving mental health issues in people. ]
 
 ### The Problem statement
 [Helps people struggling with emotional, mental stress and anxiety to track their current mental state.]
@@ -60,7 +60,7 @@ Run on Heroku (Backend)	heroku open]
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![logo.jpg](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
