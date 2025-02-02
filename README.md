@@ -60,14 +60,18 @@ Run on Heroku (Backend)	heroku open]
 For Software:
 
 # Screenshots (Add at least 3)
-![logo.jpg](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![![Homepage](https://github.com/user-attachments/assets/79912670-1784-4927-b119-e1a574acdcf0)
+](Home page which directs to different sections of the website.)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![![chatbot](https://github.com/user-attachments/assets/01a1838c-3915-43ed-8a21-d42124a69799)
+](The AI chatbot which acts as a mental health therapist.)
+
+
+![![Q A](https://github.com/user-attachments/assets/537cda46-ca28-46d9-b86d-51fa252ce6eb)
+]( Q&A for the mental health assesment.)
+![![code4site](https://github.com/user-attachments/assets/00eb75dc-f77d-4dd8-888b-09b508d7547b)
+]
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
