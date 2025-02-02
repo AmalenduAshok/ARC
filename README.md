@@ -59,7 +59,7 @@ Run on Heroku (Backend)	heroku open]
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots of 
 ![![Homepage](https://github.com/user-attachments/assets/79912670-1784-4927-b119-e1a574acdcf0)
 ](Home page which directs to different sections of the website.)
 
