@@ -6,8 +6,8 @@
 
 
 ### Team Members
-- Member 1: [Anulakshmi] - [Model Engineering College]
-- Member 2: [Amalendu] - [Model Engineering College]
+- Member 1: [Anulakshmi K] - [Model Engineering College]
+- Member 2: [Amalendu Ashok] - [Model Engineering College]
 
 
 ### Hosted Project Link
@@ -20,7 +20,7 @@
 [Helps people struggling with emotional, mental stress and anxiety to track their current mental state.]
 
 ### The Solution
-[We provide mental health tips, resources and self assesment quizzes.Moreover our integrateg open AI acts as a mental health therapist in solving your issues ]
+[We provide mental health tips, resources and self assesment quizzes.Moreover our integrated open AI acts as a mental health therapist in solving your issues ]
 
 ## Technical Details
 ### Technologies/Components Used
